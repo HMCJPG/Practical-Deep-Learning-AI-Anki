@@ -1,1 +1,1 @@
-# Practical-Deep-Learning-AI-Anki
+# Practical-Deep-Learning-Anki-FastAI
